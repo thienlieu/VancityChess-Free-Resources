@@ -7,7 +7,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 Users of this repo <b> are assumed </b> to have basics understanding of the game such as: how pieces are moved, how to castle, etc.
 
 <h3> Fundamentals of Endgames </h3>
-- Checkout this free Chess Endgame Fundamentals Series by IM <a href="https://www.youtube.com/c/JohnBartholomewChess"> John Bartholomew</a>
+Chess Endgame Fundamentals Series by IM <a href="https://www.youtube.com/c/JohnBartholomewChess"> John Bartholomew</a>
 <br>
 <a href="https://www.youtube.com/watch?v=-xk56Rt-7Rs&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot"> Full Playlist:</a>
 <ul>
