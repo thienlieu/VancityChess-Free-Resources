@@ -20,3 +20,4 @@ Chess Endgame Fundamentals Series by IM <a href="https://www.youtube.com/c/JohnB
 <li><a href="https://www.youtube.com/watch?v=Jd0meolN7wI&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=7"> Opposition Exercise</a></li>
 <li><a href="https://www.youtube.com/watch?v=aLyRWZPXUzI&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=8">King + Pawn vs King </a></li>
 </ul>
+
