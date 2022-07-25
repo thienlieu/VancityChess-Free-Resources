@@ -3,20 +3,23 @@
 This chess repository aims to enhance your understanding of chess progressively, utilizing free resources on the web.
 <br>
 Many books recommended can be found for free via <a href="https://z-lib.org/">Z-Library</a>, or an attached links for hard-copy purchases will be provided via <a href="https://www.amazon.ca/"> Amazon CA</a>.
-<br>
-Users of this repo <b> are assumed </b> to have basics understanding of the game such as: how pieces are moved, how to castle, etc.
 
-<h3> Before Getting Started </h3>
-<b> Know your strength: </b> Chess database is growing at an unimaginable rate. New ideas are found, yet the underlying principles remain the same. While it is impossible for a person to know everything about chess, it is important to choose your repertoires and expand on top of it. Choose your edge.
-<br>
-<br>
-<b> Practice solving chess puzzles by themes:</b> Chess is a mind sport, and any sport requires practice. Solving puzzles help to speed up pattern recognitions and build reflexivity.
-<br>
-<br>
-<b> Play lots of games, and analyze games to find weaknesses/ strengths:</b> Repetition is great, but diligence is also required to improve.
-<br>
-<br>
-<img src="https://www.learnupon.com/wp-content/uploads/Blog-Forgetting-Curve-Graphic.png" width= 450px length= 450px >
+<h3> Content </h3>
+<ul>
+<li><a href= #Endgames> Endgames</a></li>
+</ul>
+
+
+
+<h3 id="Endgames"> Endgames</h3>
+<h6> Books </h6>
+<ul>
+<li><a href= "https://www.amazon.ca/100-Endgames-You-Must-Know/dp/9056916173"> 100 Endgames You Must Know- Jesus De La Villa</a></li>
+</ul>
+
+
+
+
 <h3> Fundamentals of Endgames </h3>
 Chess Endgame Fundamentals Series by IM <a href="https://www.youtube.com/c/JohnBartholomewChess"> John Bartholomew</a>
 <br>
@@ -31,4 +34,3 @@ Chess Endgame Fundamentals Series by IM <a href="https://www.youtube.com/c/JohnB
 <li><a href="https://www.youtube.com/watch?v=Jd0meolN7wI&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=7"> Opposition Exercise</a></li>
 <li><a href="https://www.youtube.com/watch?v=aLyRWZPXUzI&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=8">King + Pawn vs King </a></li>
 </ul>
-
