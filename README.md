@@ -23,6 +23,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 <h3 id="Endgames"> Endgames</h3>
 <h6> Books </h6>
 <ul>
+<li><a href="https://www.amazon.ca/Mastering-Endgame-Strategy-Johan-Hellsten-ebook/dp/B00FQFMS8Q/ref=sr_1_3?crid=1YTFTDEAIWAC0&keywords=johan+hellsten&qid=1658720676&sprefix=johan+hellsten%2Caps%2C111&sr=8-3">Mastering EndGame Strategy- Johan Hellsten </li>
 <li><a href= "https://www.amazon.ca/100-Endgames-You-Must-Know/dp/9056916173"> 100 Endgames You Must Know- Jesus De La Villa</a></li>
  <li><a href="https://www.amazon.com/Theory-Practice-Chess-Endings-book/dp/B0035ZB5G0/ref=sr_1_1?crid=350EV7PCUVC5V&keywords=theory+and+practice+of+chess+endings&qid=1658715533&sprefix=theory+and+practice+of+chess+endings%2Caps%2C101&sr=8-1">Theory and Practice of Chess Endings (2 volumes)- Alexander Panchenko</a></li>
   <li><a href="https://www.amazon.ca/Dvoretskys-Endgame-Manual-Mark-Dvoretsky/dp/1949859185/ref=sr_1_1?crid=2PDKRHQG6GWP3&keywords=Dvoretsky%27s+Endgame+Manual&qid=1658715905&sprefix=dvoretsky%27s+endgame+manual%2Caps%2C116&sr=8-1">Dvoretsky's Endgame Manual- Mark Dvorestky</a></li>
@@ -52,6 +53,8 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 <h6> Books </h6>
 <ul>
  <li><a href="https://www.amazon.ca/Positional-Chess-Handbook-Instructive-Grandmaster/dp/0486419495/ref=sr_1_1?crid=2Y8GZIAM46PR0&keywords=positional+chess+handbook&qid=1658715661&sprefix=positional+chess+handbook%2Caps%2C118&sr=8-1"> Positional Chess Handbook: 495 Instructive Positions from Grandmaster Games- Israel Gelfer</a></li>
+ <li><a href="https://www.amazon.ca/Complete-Manual-Positional-Chess-Middlegame-ebook/dp/B01N5LUM9P/ref=sr_1_2?crid=3CPCL6AP8CL9M&keywords=Konstantin+Sakaev&qid=1658720771&sprefix=konstantin+sakaev+%2Caps%2C101&sr=8-2">The Complete Manual of Positional Chess: The Russian Chess School 2.0 – Opening and Middlegame- Konstantin Sakaev and Konstantin Landa</a></li>
+ <li><a href="https://www.amazon.ca/Mastering-Positional-Chess-Practical-Champion-ebook/dp/B0131MASFU/ref=sr_1_2?crid=1V4459GWN8FRQ&keywords=mastering+positional+chess+daniel+narodistky&qid=1658720887&sprefix=mastering+positional+chess+daniel+narodistky%2Caps%2C120&sr=8-2">Mastering Positional Chess: Practical Lessons of a Junior World Champion- Daniel Naroditsky</a></li>
  </ul>
 
 <h3 id="Others">Others </h3>
