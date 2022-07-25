@@ -70,6 +70,12 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  <br>
  <br>
  The story of AlphaZero has a wider impact. Game Changer offers intriguing insights into the opportunities and horizons of Artificial Intelligence. Not just in solving games, but in providing solutions for a wide variety of challenges in society. 
+ <br>
+ <br>
+ <li><a href="https://www.amazon.ca/How-Reassess-Your-Chess-4th/dp/1890085138/ref=sr_1_1?crid=I7T3UJ1GCVFG&keywords=how+to+reassess+your+chess&qid=1658721311&sprefix=how+to+reasse%2Caps%2C124&sr=8-1">How to reassess your chess- Jeremy Silman</a></li>
+ <br>
+ <br>
+ Silman shows how to dissect a position, recognize its individual parts and ultimately find the move that conforms to the needs of that particular situation. By explaining the thought processes that go into a master's choice of move, the author presents a system of thought that makes advanced strategies seem clear, logical and at times even obvious.
  
  </ul>
 
