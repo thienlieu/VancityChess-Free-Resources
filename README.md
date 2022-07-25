@@ -52,6 +52,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
    <li><a href="https://www.youtube.com/watch?v=mQxterlZPnE">Lucena Position</a></li>
    <li><a href="https://www.youtube.com/watch?v=Jd0meolN7wI">Opposition Exercise</a></li>
    <li><a href="https://www.youtube.com/watch?v=aLyRWZPXUzI">King + Pawn vs King</a> </li>
+ </ul>
 </ul>
 
 <h3 id = "PositionalChess">Positional Chess </h3>
