@@ -30,14 +30,22 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 </ul>
 <h6>Youtube </h6>
 <ul>
- <li href="https://www.youtube.com/watch?v=-xk56Rt-7Rs&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot"> Endgames Fundamental Playlist- IM John Bartholomew </li>
+ <li><a href="https://www.youtube.com/watch?v=-xk56Rt-7Rs&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot"> Endgames Fundamental Playlist- IM John Bartholomew </a></li>
+ <br>
+ <b><i>Topics covered</i></b>:
  <br>
  <br>
- Topics covered:
- <li>
+ <ul>
+  <ul>
  <li>Short Side- Long Side Defense </li>
  <li>Vancura Position </li>
- </li>
+ <li>Safe Squares</li>
+<li> First- Rank Defense </li>
+<li> Philidor Position</li>
+<li>Lucena Position </li>
+<li> Opposition Exercise</li>
+<li>King + Pawn vs King </li>
+ </ul>
 </ul>
 
 <h3 id = "PositionalChess">Positional Chess </h3>
@@ -62,17 +70,4 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  
  </ul>
 
-<h3> Fundamentals of Endgames </h3>
-Chess Endgame Fundamentals Series by IM <a href="https://www.youtube.com/c/JohnBartholomewChess"> John Bartholomew</a>
-<br>
-<a href="https://www.youtube.com/watch?v=-xk56Rt-7Rs&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot"> Full Playlist:</a>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=-xk56Rt-7Rs&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=1">Short Side/ Long Side Defense </a></li>
-<li><a href="https://www.youtube.com/watch?v=-xk56Rt-7Rs&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=2"> Vancura Position</a></li>
-<li><a href="https://www.youtube.com/watch?v=H2DZH4aFklw&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=3">Safe Squares </a></li>
-<li><a href="https://www.youtube.com/watch?v=tDGHkKkKVB8&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=4"> First- Rank Defense</a> </li>
-<li><a href="https://www.youtube.com/watch?v=gkP44VKT9Rw&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=5"> Philidor Position</a></li>
-<li><a href="https://www.youtube.com/watch?v=mQxterlZPnE&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=6">Lucena Position </a></li>
-<li><a href="https://www.youtube.com/watch?v=Jd0meolN7wI&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=7"> Opposition Exercise</a></li>
-<li><a href="https://www.youtube.com/watch?v=aLyRWZPXUzI&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot&index=8">King + Pawn vs King </a></li>
-</ul>
+
