@@ -36,7 +36,6 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  <b><i>Topics covered</i></b>:
  <br>
  <br>
- <ul>
   <ul>
  <li>Short Side- Long Side Defense </li>
  <li>Vancura Position </li>
@@ -46,7 +45,6 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 <li>Lucena Position </li>
 <li> Opposition Exercise</li>
 <li>King + Pawn vs King </li>
- </ul>
 </ul>
 
 <h3 id = "PositionalChess">Positional Chess </h3>
