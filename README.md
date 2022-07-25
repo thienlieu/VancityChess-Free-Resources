@@ -39,14 +39,14 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  <br>
  <br>
   <ul>
- <li>Short Side- Long Side Defense </li>
- <li>Vancura Position </li>
- <li>Safe Squares</li>
-<li> First- Rank Defense </li>
-<li> Philidor Position</li>
-<li>Lucena Position </li>
-<li> Opposition Exercise</li>
-<li>King + Pawn vs King </li>
+   <li><a href="https://www.youtube.com/watch?v=-xk56Rt-7Rs">Short Side- Long Side Defense </a></li>
+   <li><a href="https://www.youtube.com/watch?v=H2DZH4aFklw">Vancura Position</a> </li>
+   <li><a href="https://www.youtube.com/watch?v=tDGHkKkKVB8">Safe Squares</a></li>
+   <li><a href="https://www.youtube.com/watch?v=fO7yuPeZvJg"> First- Rank Defense </a></li>
+   <li><a href="https://www.youtube.com/watch?v=gkP44VKT9Rw"> Philidor Position</a></li>
+   <li><a href="https://www.youtube.com/watch?v=mQxterlZPnE">Lucena Position</a></li>
+   <li><a href="https://www.youtube.com/watch?v=Jd0meolN7wI">Opposition Exercise</a></li>
+   <li><a href="https://www.youtube.com/watch?v=aLyRWZPXUzI">King + Pawn vs King</a> </li>
 </ul>
 
 <h3 id = "PositionalChess">Positional Chess </h3>
