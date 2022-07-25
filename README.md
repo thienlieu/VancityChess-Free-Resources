@@ -39,9 +39,14 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 <h6> Books </h6>
 <ul>
  <li><a href="https://www.amazon.ca/Think-Like-Grandmaster-Batsford-Chess-ebook/dp/B00PPH2Q8W/ref=sr_1_1?crid=UJ2YSGY6VYZP&keywords=think+like+a+grandmaster&qid=1658716223&sprefix=think+like+a+grandmaste%2Caps%2C129&sr=8-1">Think Like A Grandmaster- A.A.Kotov</a></li>
+ <br>
+ <br>
   Understand how a grandmaster thinks, and how he works. Kotov tackles fundamental issues such as knowing how and when to analyze, the tree of analysis, a selection of candidate moves and the factors of success.
  <br>
+ <br>
  <li><a href="https://www.amazon.ca/Game-Changer-AlphaZeros-Groundbreaking-Strategies-ebook/dp/B07N6G7X5V/ref=sr_1_5?crid=X7N9THZ0ZZZB&keywords=game+changer&qid=1658716563&sprefix=game+change%2Caps%2C162&sr=8-5"> Game Changer: AlphaZero's Groundbreaking Chess Strategies and the Promise of AI- Matthew Sadler and Natasha Regan</a></li>
+ <br>
+ <br>
  The story of AlphaZero has a wider impact. Game Changer offers intriguing insights into the opportunities and horizons of Artificial Intelligence. Not just in solving games, but in providing solutions for a wide variety of challenges in society. 
  
  </ul>
