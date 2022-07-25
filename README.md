@@ -1,4 +1,4 @@
-# Chess-Free-Resources
+# VanCityChess-Free-Resources
 
 This chess repository aims to enhance your understanding of chess progressively, a unified resource for studying.
 <br>
