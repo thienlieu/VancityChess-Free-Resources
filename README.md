@@ -28,6 +28,17 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
   <li><a href="https://www.amazon.ca/Dvoretskys-Endgame-Manual-Mark-Dvoretsky/dp/1949859185/ref=sr_1_1?crid=2PDKRHQG6GWP3&keywords=Dvoretsky%27s+Endgame+Manual&qid=1658715905&sprefix=dvoretsky%27s+endgame+manual%2Caps%2C116&sr=8-1">Dvoretsky's Endgame Manual- Mark Dvorestky</a></li>
   <li><a href="https://www.amazon.ca/Endgame-Strategy-Mikhail-Shereshevsky/dp/9493257371/ref=sr_1_2?crid=2HE6QOHZUFKKZ&keywords=Mikhail+Shereshevsky&qid=1658716002&sprefix=mikhail+shereshevsky%2Caps%2C114&sr=8-2">Endgame Strategy- Mikhail Shereshevsky </a></li>
 </ul>
+<h6>Youtube </h6>
+<ul>
+ <li href="https://www.youtube.com/watch?v=-xk56Rt-7Rs&list=PLl9uuRYQ-6MDzm-bs8kbyHdYEmRGUauot"> Endgames Fundamental Playlist- IM John Bartholomew </li>
+ <br>
+ <br>
+ Topics covered:
+ <li>
+ <li>Short Side- Long Side Defense </li>
+ <li>Vancura Position </li>
+ </li>
+</ul>
 
 <h3 id = "PositionalChess">Positional Chess </h3>
 <h6> Books </h6>
