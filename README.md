@@ -16,6 +16,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 <h6>Books</h6>
 <ul> 
   <li><a href="https://www.amazon.ca/Mastering-Chess-Middlegames-All-Russian-Grandmasters-ebook/dp/B018HQF5LM/ref=sr_1_2?crid=2F6HVQFKEGZ3J&keywords=Alexander+Panchenko&qid=1658715296&sprefix=alexander+panchenko%2Caps%2C125&sr=8-2">Mastering Chess Middlegames- Lectures from the All-Russian School of Grandmasters- Alexander Panchenko</a></li>
+ <li><a href="https://www.amazon.ca/Art-Attack-Chess-V-Vukovic/dp/1857444000/ref=sr_1_2crid=2SLWQH8HNUO8&keywords=art+of+attack&qid=1658721103&sprefix=art+of+attack%2Caps%2C134&sr=8-2">Art of Attack in Chess- V. Vukovic and John Nunn</a></li>
 </ul>
 
 
@@ -23,7 +24,8 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 <h3 id="Endgames"> Endgames</h3>
 <h6> Books </h6>
 <ul>
-<li><a href="https://www.amazon.ca/Mastering-Endgame-Strategy-Johan-Hellsten-ebook/dp/B00FQFMS8Q/ref=sr_1_3?crid=1YTFTDEAIWAC0&keywords=johan+hellsten&qid=1658720676&sprefix=johan+hellsten%2Caps%2C111&sr=8-3">Mastering EndGame Strategy- Johan Hellsten </li>
+<li><a href="https://www.amazon.ca/Silmans-Complete-Endgame-Couorse-Jeremy/dp/1890085103/ref=sr_1_4?crid=1X7R0WYBADEH9&keywords=jeremy+silman&qid=1658721213&sprefix=jeremy+silman%2Caps%2C120&sr=8-4">Silman's Complete Endgame Course- Jeremy Silman</a></li>
+<li><a href="https://www.amazon.ca/Mastering-Endgame-Strategy-Johan-Hellsten-ebook/dp/B00FQFMS8Q/ref=sr_1_3?crid=1YTFTDEAIWAC0&keywords=johan+hellsten&qid=1658720676&sprefix=johan+hellsten%2Caps%2C111&sr=8-3">Mastering Endgame Strategy- Johan Hellsten </li>
 <li><a href= "https://www.amazon.ca/100-Endgames-You-Must-Know/dp/9056916173"> 100 Endgames You Must Know- Jesus De La Villa</a></li>
  <li><a href="https://www.amazon.com/Theory-Practice-Chess-Endings-book/dp/B0035ZB5G0/ref=sr_1_1?crid=350EV7PCUVC5V&keywords=theory+and+practice+of+chess+endings&qid=1658715533&sprefix=theory+and+practice+of+chess+endings%2Caps%2C101&sr=8-1">Theory and Practice of Chess Endings (2 volumes)- Alexander Panchenko</a></li>
   <li><a href="https://www.amazon.ca/Dvoretskys-Endgame-Manual-Mark-Dvoretsky/dp/1949859185/ref=sr_1_1?crid=2PDKRHQG6GWP3&keywords=Dvoretsky%27s+Endgame+Manual&qid=1658715905&sprefix=dvoretsky%27s+endgame+manual%2Caps%2C116&sr=8-1">Dvoretsky's Endgame Manual- Mark Dvorestky</a></li>
