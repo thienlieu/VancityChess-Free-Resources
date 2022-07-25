@@ -5,6 +5,12 @@ Find us at: https://www.vancitychess.ca/
 Join us on Discord: https://discord.gg/kaTd2TZXhs
 <br>
 <br>
+<h4> Weekly Meetup </h4>
+Where: 9th floor of the Vancouver Public Library at 350 W Georgia St
+<br>
+When: Sundays from 11am - 5pm PDT
+<br>
+<b><i>Equipment is sponsored by Vancity Chess so no need to bring any boards, pieces, or clocks! </i><b>
 This chess repository aims to enhance your understanding of chess progressively, a unified resource for studying.
 <br>
 Many books recommended can be found for free via <a href="https://z-lib.org/">Z-Library</a>, or an attached links for hard-copy purchases will be provided via <a href="https://www.amazon.ca/"> Amazon CA</a>.
