@@ -1,6 +1,6 @@
 # Chess-Free-Resources
 
-This chess repository aims to enhance your understanding of chess progressively, utilizing free resources on the web.
+This chess repository aims to enhance your understanding of chess progressively, a unified resource for studying.
 <br>
 Many books recommended can be found for free via <a href="https://z-lib.org/">Z-Library</a>, or an attached links for hard-copy purchases will be provided via <a href="https://www.amazon.ca/"> Amazon CA</a>.
 
