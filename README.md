@@ -88,6 +88,12 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  <br>
  <br>
  Silman shows how to dissect a position, recognize its individual parts and ultimately find the move that conforms to the needs of that particular situation. By explaining the thought processes that go into a master's choice of move, the author presents a system of thought that makes advanced strategies seem clear, logical and at times even obvious.
+ <br><br>
+ <li><a href="https://www.amazon.ca/Logical-Chess-Move-Explained-Algebraic/dp/0713484640/ref=sr_1_1?crid=37GXUBHVDXKTF&keywords=LOGICAL+CHESS&qid=1658854545&sprefix=logical+chess%2Caps%2C126&sr=8-1"> Logical Chess: Every Move Explained- Irving Chernev</a></li>
+ <br>
+ <br>
+ Having learnt the basic moves, how exactly should a player improve? In this much loved classic, Irving Chernev explains 33 complete games in detail, telling the reader the reason for every single move.
+
  
  </ul>
 
