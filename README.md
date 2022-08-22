@@ -22,6 +22,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  <li><a href= #PositionalChess>Positional Chess </a></li>
  <li><a href= #Others> Others</a></li>
  <li><a href= #FamousChessAuthors>Books/ Series organized by Famous Chess Authors </a></li>
+ <li><a href=#RecommendedYoutubeChannels> Recommended Youtube Channels</a></li>
 </ul>
 
 <h3 id="Middlegames"> Middlegames</h3>
@@ -107,6 +108,27 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  <li><a href = "https://www.thriftbooks.com/a/mark-dvoretsky/312065/ "> Mark Dvoretsky </a></li> 
  <li><a href= "https://www.thriftbooks.com/a/jeremy-silman/215284/"> Jeremy Silman</a></li>
  
+ </ul>
+ 
+ <h3 id = "RecommendedYoutubeChannels">Recommended Youtube Channels</h3>
+ <h6> Analytics </h6>
+ <ul>
+  <li><a href=" "  > Gotham Chess </a></li>
+  <li><a href=" "  > GM Hikaru</a> </li>
+  <li><a href=" "  > Daniel Naroditsky</a> </li>
+  <li><a href=" "  > Agadmator</a></li>
+  <li><a href=" "  > PowerPlayChess</a></li>
+  <li><a href=" "  > Chess Dojo</a></li>
+  <li><a href=" "  > ChessBaseIndia</a> </li>
+  <li><a href=" "  > ChessBrah</a> </li>
+  <li><a href=" "  > Eric Ronsen</a> </li>
+ </ul>
+ <h6> Entertainment </h6>
+ <ul>
+  <li><a href=" "  > Anna Cramling</a></li>
+  <li><a href=" "  > BotezLive</a></li>
+  <li><a href=" "  > akaNemsko</a></li>
+
  </ul>
  
 
