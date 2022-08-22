@@ -21,6 +21,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  <li><a href= #Endgames> Endgames</a></li>
  <li><a href= #PositionalChess>Positional Chess </a></li>
  <li><a href= #Others> Others</a></li>
+ <li><a href= #FamousChessAuthors>Famous Chess Authors </a></li>
 </ul>
 
 <h3 id="Middlegames"> Middlegames</h3>
@@ -96,5 +97,17 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
 
  
  </ul>
+ 
+ <h3 id ="FamousChessAuthors"> Books/ Series by Famous Chess Authors</h3>
+
+ <ul>
+ <li><a href="https://www.thriftbooks.com/a/jacob-aagaard/416466/"> Jacob Aagard </a></li> 
+ <li><a href ="https://www.thriftbooks.com/a/artur-yusupov/312066/"> Artur Yusupov </a></li> 
+ <li><a href= "https://www.thriftbooks.com/a/david-bronstein/343897/"> David Bronstein </a></li> 
+ <li><a href = "https://www.thriftbooks.com/a/mark-dvoretsky/312065/ "> Mark Dvoretsky </a></li> 
+ <li> <a href= " https://www.thriftbooks.com/a/jeremy-silman/215284/"> Jeremy Silman </a></li>
+ 
+ </ul>
+ 
 
 
