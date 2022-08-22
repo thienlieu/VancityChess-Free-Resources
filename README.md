@@ -111,23 +111,28 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
  </ul>
  
  <h3 id = "RecommendedYoutubeChannels">Recommended Youtube Channels</h3>
+ 
+ <h6> GMs </h6>
+ <ul>
+  <li><a href= "https://www.youtube.com/c/GMHikaru" > Hikaru Nakamura </a></li>
+  <li><a href= "https://www.youtube.com/c/AnishGiriOfficial" > Anish Giri</a></li>
+  <li><a href= "https://www.youtube.com/user/PowerPlayChess" > Daniel King</a></li>
+  <li><a href= "https://www.youtube.com/c/DanielNaroditskyGM" > Daniel Naroditsky </a></li>
+ </ul>
  <h6> Analytics </h6>
  <ul>
-  <li><a href=" "  > Gotham Chess </a></li>
-  <li><a href=" "  > GM Hikaru</a> </li>
-  <li><a href=" "  > Daniel Naroditsky</a> </li>
-  <li><a href=" "  > Agadmator</a></li>
-  <li><a href=" "  > PowerPlayChess</a></li>
-  <li><a href=" "  > Chess Dojo</a></li>
-  <li><a href=" "  > ChessBaseIndia</a> </li>
-  <li><a href=" "  > ChessBrah</a> </li>
-  <li><a href=" "  > Eric Ronsen</a> </li>
+  <li><a href="https://www.youtube.com/c/GothamChess "  > Gotham Chess </a></li>
+  <li><a href="https://www.youtube.com/c/AGADMATOR "  > Agadmator</a></li>
+  <li><a href="https://www.youtube.com/c/ChessDojo "  > Chess Dojo</a></li>
+  <li><a href="https://www.youtube.com/c/ChessBaseIndiachannel"  > ChessBaseIndia</a> </li>
+  <li><a href="https://www.youtube.com/c/chessbrah "  > ChessBrah</a> </li>
+  <li><a href="https://www.youtube.com/user/RosenChess "  > Eric Ronsen</a> </li>
  </ul>
  <h6> Entertainment </h6>
  <ul>
-  <li><a href=" "  > Anna Cramling</a></li>
-  <li><a href=" "  > BotezLive</a></li>
-  <li><a href=" "  > akaNemsko</a></li>
+  <li><a href="https://www.youtube.com/c/AnnaCramling "  > Anna Cramling</a></li>
+  <li><a href="https://www.youtube.com/c/BotezLive "  > BotezLive</a></li>
+  <li><a href="https://www.youtube.com/c/akaNemsko "  > akaNemsko</a></li>
 
  </ul>
  
