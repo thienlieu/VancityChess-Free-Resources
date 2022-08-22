@@ -118,6 +118,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
   <li><a href= "https://www.youtube.com/c/AnishGiriOfficial" > Anish Giri</a></li>
   <li><a href= "https://www.youtube.com/user/PowerPlayChess" > Daniel King</a></li>
   <li><a href= "https://www.youtube.com/c/DanielNaroditskyGM" > Daniel Naroditsky </a></li>
+  <li><a href="https://www.youtube.com/c/GMBenjaminFinegold"> Benjamin FineGold </a></li>
  </ul>
  <h6> Analytics </h6>
  <ul>
@@ -127,6 +128,7 @@ Many books recommended can be found for free via <a href="https://z-lib.org/">Z-
   <li><a href="https://www.youtube.com/c/ChessBaseIndiachannel"  > ChessBaseIndia</a> </li>
   <li><a href="https://www.youtube.com/c/chessbrah "  > ChessBrah</a> </li>
   <li><a href="https://www.youtube.com/user/RosenChess "  > Eric Ronsen</a> </li>
+  <li><a href="https://www.youtube.com/c/STLChessClub"> Saint Louis Chess Club </a></li>
  </ul>
  <h6> Entertainment </h6>
  <ul>
